@@ -5,7 +5,7 @@ import 'package:flutter_gemini/flutter_gemini.dart';
 
 
 void main() {
-  Gemini.init(apiKey: 'AIzaSyAOgFEJiKXjzYiG5KeV9mf8hdu_5kSOf-w');
+  Gemini.init(apiKey: '---API KEY---');
   runApp(const AiChat());
 }
 
